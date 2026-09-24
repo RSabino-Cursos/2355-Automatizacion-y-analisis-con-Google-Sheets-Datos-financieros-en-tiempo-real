@@ -1,0 +1,61 @@
+﻿Código;Producto;Talla;Categoría;Costo Unitario;Precio Unitario
+PR001;Bermuda;S;Ropa;$35,59;$65,90
+PR002;Bermuda;M;Ropa;$39,14;$69,90
+PR003;Bermuda;L;Ropa;$45,38;$70,90
+PR004;Bolso versátil;Única;Accesorios;$92,80;$145,00
+PR005;Bolso de cuero;Única;Accesorios;$155,94;$259,90
+PR006;Gorra;Única;Accesorios;$27,13;$39,90
+PR007;Pantalón de mezclilla;S;Ropa;$60,13;$85,90
+PR008;Pantalón de mezclilla;M;Ropa;$55,74;$89,90
+PR009;Pantalón de mezclilla;L;Ropa;$64,10;$92,90
+PR010;Pantalón legging;S;Ropa;$27,39;$44,90
+PR011;Pantalón legging;M;Ropa;$23,92;$46,90
+PR012;Pantalón legging;L;Ropa;$28,85;$48,90
+PR013;Playera estampada;S;Ropa;$27,53;$39,90
+PR014;Playera estampada;M;Ropa;$20,75;$39,90
+PR015;Playera estampada;L;Ropa;$25,50;$42,50
+PR016;Playera lisa;S;Ropa;$13,21;$25,90
+PR017;Playera lisa;M;Ropa;$17,34;$29,90
+PR018;Playera lisa;L;Ropa;$17,77;$32,90
+PR019;Cinturón;Única;Accesorios;$34,43;$49,90
+PR020;Chaqueta de cuero;S;Ropa;$164,95;$299,90
+PR021;Chaqueta de cuero;M;Ropa;$178,71;$302,90
+PR022;Chaqueta de cuero;L;Ropa;$186,00;$300,00
+PR023;Chaqueta de mezclilla;S;Ropa;$167,43;$249,90
+PR024;Chaqueta de mezclilla;M;Ropa;$168,94;$259,90
+PR025;Chaqueta de mezclilla;L;Ropa;$155,95;$299,90
+PR026;Gafas cuadradas;Única;Accesorios;$199,44;$349,90
+PR027;Gafas redondas;Única;Accesorios;$66,00;$120,00
+PR028;Tenis Atitas;36;Calzado;$154,94;$249,90
+PR029;Tenis Atitas;37;Calzado;$145,35;$255,00
+PR030;Tenis Atitas;38;Calzado;$153,34;$259,90
+PR031;Tenis Chunky;36;Calzado;$156,80;$245,00
+PR032;Tenis Chunky;37;Calzado;$152,50;$250,00
+PR033;Tenis Chunky;38;Calzado;$153,34;$259,90
+PR034;Vestido corto;S;Ropa;$59,33;$89,90
+PR035;Vestido corto;M;Ropa;$46,61;$91,40
+PR036;Vestido corto;L;Ropa;$52,36;$93,50
+PR037;Vestido largo;S;Ropa;$70,00;$140,00
+PR038;Vestido largo;M;Ropa;$98,60;$142,90
+PR039;Vestido largo;L;Ropa;$90,52;$146,00
+PR040;Playera confort;S;Ropa;$46,90;$70,00
+PR041;Playera confort;M;Ropa;$34,04;$54,90
+PR042;Playera confort;L;Ropa;$29,65;$54,90
+PR043;Vestido floral;S;Ropa;$37,70;$72,50
+PR044;Vestido floral;M;Ropa;$50,03;$72,50
+PR045;Vestido floral;L;Ropa;$42,78;$72,50
+PR046;Chaqueta de cuero;S;Ropa;$171,04;$289,90
+PR047;Chaqueta de cuero;M;Ropa;$194,23;$289,90
+PR048;Chaqueta de cuero;L;Ropa;$171,04;$289,90
+PR049;Playera a rayas;S;Ropa;$18,75;$32,90
+PR050;Playera a rayas;M;Ropa;$22,37;$32,90
+PR051;Playera a rayas;L;Ropa;$20,73;$32,90
+PR052;Falda plisada;S;Ropa;$31,94;$49,90
+PR053;Falda plisada;M;Ropa;$28,94;$49,90
+PR054;Falda plisada;L;Ropa;$34,93;$49,90
+PR055;Sandalia plana;35;Calzado;$58,44;$89,90
+PR056;Sandalia plana;36;Calzado;$45,85;$89,90
+PR057;Sandalia plana;37;Calzado;$48,55;$89,90
+PR058;Pantalón de sastre;S;Ropa;$113,40;$180,00
+PR059;Pantalón de sastre;M;Ropa;$95,40;$180,00
+PR060;Pantalón de sastre;L;Ropa;$120,60;$180,00
